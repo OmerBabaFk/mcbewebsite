@@ -3,7 +3,10 @@
 *Demo : https://mcbewebsite.000webhostapp.com
 *Demo Sitesine Girmiyorsa VPN Kullanınız
 
-*Web Site Minecraft Bedrock Edition Sunucuları İçin Kodlanmıştır V1 Sürümüdür Diğer Sürümleride Gelecektir.
+*Web Site Minecraft Bedrock Edition Sunucuları İçin Kodlanmıştır V1.1 Sürümüne Güncellenmiştir
+
+V1.1 Güncelleme Gelenler;
+-Kurallar Bölümü Yapıldı.
 
 *Siteyi Editleyip Kendinizin Gibi Göstermeyin Emek Hırsızlığı Yapmayın
 
